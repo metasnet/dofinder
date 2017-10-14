@@ -12,11 +12,12 @@
             <li id="download" ><a href="#downloadlink" class="btn  btn-lg mybutton_standard wow fadeIn" data-wow-delay="1.2s"><span class="network-name">Créer un compte</span></a>
             </li>
         </ul>
+        <a href="" class="">Je possède déjà un compte</a>
     </div>
     <!-- /.container -->
     <div class="col-xs-12 text-center abcen wow fadeIn">
         <div class="button_down ">
-            <a class="imgcircle wow bounceInUp" data-wow-duration="1.5s"  href="#whatis"> <img class="img_scroll" src="img/icon/circle.png" alt=""> </a>
+            <a class="imgcircle wow bounceInUp" data-wow-duration="1.5s"  href="#why"> <img class="img_scroll" src="img/icon/circle.png" alt=""> </a>
         </div>
     </div>
 
